@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><L2VPN><Base xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="merge"><Enable>false</Enable></Base></L2VPN></top></config>

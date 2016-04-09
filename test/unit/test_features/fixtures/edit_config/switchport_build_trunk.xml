@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><VLAN><TrunkInterfaces><Interface><IfIndex>9</IfIndex><PVID>2</PVID></Interface></TrunkInterfaces></VLAN></top></config>

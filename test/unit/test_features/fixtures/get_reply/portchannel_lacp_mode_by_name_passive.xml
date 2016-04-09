@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply message-id="urn:uuid:5e5e3728-dfed-11e5-b839-60f81db7542c" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns:config="http://www.hp.com/netconf/config:1.0" xmlns:data="http://www.hp.com/netconf/data:1.0">
+    <data>
+        <top xmlns="http://www.hp.com/netconf/data:1.0">
+            <LAGG>
+                <LAGGMembers>
+                    <LAGGMember>
+                        <IfIndex>41</IfIndex>
+                        <GroupId>0</GroupId>
+                        <LacpMode>2</LacpMode>
+                        <LacpShortPeriodEnable>false</LacpShortPeriodEnable>
+                        <ActorPortPriority>32768</ActorPortPriority>
+                    </LAGGMember>
+                </LAGGMembers>
+            </LAGG>
+        </top>
+    </data>
+</rpc-reply>

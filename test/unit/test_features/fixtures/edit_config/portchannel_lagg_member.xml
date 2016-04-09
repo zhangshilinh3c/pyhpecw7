@@ -1,0 +1,1 @@
+<LAGGMember xmlns="http://www.hp.com/netconf/config:1.0"><IfIndex>1</IfIndex><GroupId>100</GroupId><LacpMode>active</LacpMode></LAGGMember>

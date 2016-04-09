@@ -1,0 +1,1 @@
+<top xmlns="http://www.hp.com/netconf/action:1.0"><Package><SetBootImage><Type>1</Type><OverwriteLocalFile>false</OverwriteLocalFile></SetBootImage><ImageFiles><Boot>boot_image</Boot><System>sys_image</System></ImageFiles></Package></top>

@@ -1,0 +1,27 @@
+<HP1>dir flash:/
+Directory of flash:
+   0 -rw-        4596 Jan 29 2011 23:16:21   11_11.cfg
+   1 -rw-    76920832 Jan 29 2011 23:19:05   5900_5920_5930-CMW710-E2415.ipe
+   2 -rw-    11109376 Jan 02 2011 00:55:31   5930-cmw710-boot-e2415.bin
+   3 -rw-     9954304 Feb 07 2014 18:43:50   5930-cmw710-boot-r2407p01.bin
+   4 -rw-    11392000 Jul 17 2015 11:53:42   5930-cmw710-boot-r2418p01.bin
+   5 -rw-    65804288 Jan 02 2011 00:56:51   5930-cmw710-system-e2415.bin
+   6 -rw-    53863424 Feb 07 2014 18:43:50   5930-cmw710-system-r2407p01.bin
+   7 -rw-    66515968 Jul 17 2015 11:55:07   5930-cmw710-system-r2418p01.bin
+   8 drw-           - Jan 17 2011 00:01:17   diagfile
+   9 -rw-         735 Jan 29 2011 23:03:37   hostkey
+  10 -rw-         922 Jan 23 2011 18:47:57   ifindex.dat
+  11 drw-           - Jan 01 2011 00:01:35   license
+  12 drw-           - Jan 28 2011 19:27:38   logfile
+  13 -rw-        4666 Jan 29 2011 23:51:12   myfile.cfg
+  14 -rw-      110802 Jan 29 2011 23:51:13   myfile.mdb
+  15 -rw-        4623 Jan 29 2011 23:16:10   safety_file.cfg
+  16 -rw-      108862 Jan 29 2011 23:16:11   safety_file.mdb
+  17 drw-           - Jan 28 2011 18:17:41   seclog
+  18 -rw-         591 Jan 29 2011 23:03:37   serverkey
+  19 -rw-        5609 Jan 23 2011 18:47:57   startup.cfg
+  20 -rw-      117516 Jan 23 2011 18:47:58   startup.mdb
+  21 drw-           - Jan 28 2011 18:17:52   versionInfo
+
+1048576 KB total (742204 KB free)
+

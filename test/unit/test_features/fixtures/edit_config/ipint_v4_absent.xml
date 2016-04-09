@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><IPV4ADDRESS xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="remove"><Ipv4Addresses><Ipv4Address><IfIndex>9</IfIndex><Ipv4Address>1.2.3.4</Ipv4Address></Ipv4Address></Ipv4Addresses></IPV4ADDRESS></top></config>

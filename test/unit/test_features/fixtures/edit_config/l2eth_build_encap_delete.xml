@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><L2VPN xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="delete"><SRVs><SRV><SrvID>100</SrvID><IfIndex>125</IfIndex></SRV></SRVs></L2VPN></top></config>

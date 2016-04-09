@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply message-id="urn:uuid:7009fa23-dbf9-11e5-9869-60f81db7542c" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns:config="http://www.hp.com/netconf/config:1.0" xmlns:data="http://www.hp.com/netconf/data:1.0">
+    <data>
+        <top xmlns="http://www.hp.com/netconf/data:1.0">
+            <VLAN>
+                <Interfaces>
+                    <Interface>
+                        <IfIndex>9</IfIndex>
+                        <Name>FortyGigE1/0/3</Name>
+                        <LinkType>1</LinkType>
+                        <PVID>1</PVID>
+                        <UntaggedVlanList>1</UntaggedVlanList>
+                    </Interface>
+                </Interfaces>
+            </VLAN>
+        </top>
+    </data>
+</rpc-reply>

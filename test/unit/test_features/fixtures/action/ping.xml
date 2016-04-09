@@ -1,0 +1,1 @@
+<top xmlns="http://www.hp.com/netconf/action:1.0"><Ping><IPv4Ping><PingTest><Host>8.8.8.8</Host><VRF></VRF></PingTest></IPv4Ping></Ping></top>

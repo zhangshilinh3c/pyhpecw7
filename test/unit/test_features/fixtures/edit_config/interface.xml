@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><Ifmgr><Interfaces><Interface><AdminStatus>1</AdminStatus><ConfigDuplex>2</ConfigDuplex><IfIndex>11</IfIndex></Interface></Interfaces></Ifmgr></top></config>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply message-id="urn:uuid:83ad7370-d66c-11e5-8091-60f81db7542c" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns:config="http://www.hp.com/netconf/config:1.0" xmlns:data="http://www.hp.com/netconf/data:1.0">
+    <data>
+        <top xmlns="http://www.hp.com/netconf/data:1.0">
+            <Device>
+                <Base>
+                    <Uptime>186705</Uptime>
+                    <HostName>HP1</HostName>
+                    <LocalTime>2011-01-03T03:50:39</LocalTime>
+                </Base>
+            </Device>
+        </top>
+    </data>
+</rpc-reply>

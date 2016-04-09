@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><L2VPN><ACs><AC><SrvID>100</SrvID><IfIndex>125</IfIndex><VsiName>VSI_VXLAN_100</VsiName><AccessMode>2</AccessMode></AC></ACs></L2VPN></top></config>

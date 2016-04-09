@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0" xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="merge"><LAGG><LAGGGroups><LAGGGroup><GroupId>100</GroupId></LAGGGroup></LAGGGroups></LAGG></top></config>

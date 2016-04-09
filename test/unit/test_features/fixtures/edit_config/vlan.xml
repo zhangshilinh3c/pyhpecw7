@@ -1,0 +1,1 @@
+<config xmlns="urn:ietf:params:xml:ns:netconf:base:1.0"><top xmlns="http://www.hp.com/netconf/config:1.0"><VLAN xmlns:nc="urn:ietf:params:xml:ns:netconf:base:1.0" nc:operation="merge"><VLANs><VLANID><ID>77</ID></VLANID></VLANs></VLAN></top></config>

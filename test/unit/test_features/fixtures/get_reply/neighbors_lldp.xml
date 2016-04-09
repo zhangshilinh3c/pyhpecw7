@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply message-id="urn:uuid:8e55c2d4-dcc8-11e5-b819-60f81db7542c" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns:config="http://www.hp.com/netconf/config:1.0" xmlns:data="http://www.hp.com/netconf/data:1.0">
+    <data>
+        <top xmlns="http://www.hp.com/netconf/data:1.0">
+            <LLDP>
+                <LLDPNeighbors>
+                    <LLDPNeighbor>
+                        <TimeMark>19268</TimeMark>
+                        <IfIndex>33412</IfIndex>
+                        <NeighborIndex>1</NeighborIndex>
+                        <SystemName>PERIMETER.cisco.com</SystemName>
+                        <ChassisID>0014-1c57-a491</ChassisID>
+                        <PortID>Fa1/0/15</PortID>
+                    </LLDPNeighbor>
+                </LLDPNeighbors>
+            </LLDP>
+        </top>
+    </data>
+</rpc-reply>

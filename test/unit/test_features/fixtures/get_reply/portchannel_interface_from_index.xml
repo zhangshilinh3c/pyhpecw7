@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rpc-reply message-id="urn:uuid:282a96e1-dffb-11e5-aa17-60f81db7542c" xmlns="urn:ietf:params:xml:ns:netconf:base:1.0" xmlns:config="http://www.hp.com/netconf/config:1.0" xmlns:data="http://www.hp.com/netconf/data:1.0">
+    <data>
+        <top xmlns="http://www.hp.com/netconf/data:1.0">
+            <Ifmgr>
+                <Interfaces>
+                    <Interface>
+                        <IfIndex>41</IfIndex>
+                        <Name>FortyGigE1/0/11</Name>
+                        <AbbreviatedName>FGE1/0/11</AbbreviatedName>
+                        <PortIndex>41</PortIndex>
+                        <ifTypeExt>68</ifTypeExt>
+                        <ifType>6</ifType>
+                        <Description>FortyGigE1/0/11 Interface</Description>
+                        <AdminStatus>1</AdminStatus>
+                        <OperStatus>2</OperStatus>
+                        <ConfigSpeed>1</ConfigSpeed>
+                        <ActualSpeed>40000000</ActualSpeed>
+                        <ConfigDuplex>3</ConfigDuplex>
+                        <ActualDuplex>1</ActualDuplex>
+                        <PortLayer>1</PortLayer>
+                        <LinkType>1</LinkType>
+                        <PVID>1</PVID>
+                        <PhysicalIndex>11</PhysicalIndex>
+                        <MAC>44-31-92-7C-C8-8F</MAC>
+                        <Loopback>0</Loopback>
+                        <MDI>3</MDI>
+                        <ConfigBandwidth>0</ConfigBandwidth>
+                        <ActualBandwidth>40000000</ActualBandwidth>
+                        <SubPort>false</SubPort>
+                        <ForceUP>false</ForceUP>
+                    </Interface>
+                </Interfaces>
+            </Ifmgr>
+        </top>
+    </data>
+</rpc-reply>
