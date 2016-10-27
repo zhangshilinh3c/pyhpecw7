@@ -64,7 +64,7 @@ class Interface(object):
         self._iface_types = set(['FortyGigE', 'Tunnel', 'LoopBack',
                                  'Vlan-interface', 'Bridge-Aggregation',
                                  'Route-Aggregation', 'GigabitEthernet',
-                                 'Ten-GigabitEthernet'])
+                                 'TwentyGigE', 'Ten-GigabitEthernet'])
 
         # xml tags
         self._iface_row_name = 'Interface'
@@ -105,6 +105,8 @@ class Interface(object):
             if_type = 'Route-Aggregation'
         elif if_name.lower().startswith('tu'):
             if_type = 'Tunnel'
+        elif if_name.lower().startswith('tw'):
+            if_type = 'TwentyGigE'
         else:
             if_type = None
 
@@ -276,7 +278,7 @@ class Interface(object):
 
         if not self.iface_exists:
             if self.iface_type in {'FortyGigE', 'GigabitEthernet',
-                                   'Ten-GigabitEthernet'}:
+                                   'TwentyGigE', 'Ten-GigabitEthernet'}:
                 raise InterfaceAbsentError(self.interface_name)
 
         if not self.is_ethernet:
